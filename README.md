@@ -1,0 +1,1 @@
+This is an imitation of NS-Shaft that I followed a host on Youtube and made it. It's simply done using Unity and C#. Hope you enjoy the game by downloading the materials needed (it's currently available for mac users only).
